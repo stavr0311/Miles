@@ -4,7 +4,7 @@ public class Main {
 
         int price = 10_000;
         int bonus = price / 20;
-        int miles = + bonus;
+        int miles = bonus;
         System.out.println("Сумма начисленных миль:"+miles);
     }
 }
